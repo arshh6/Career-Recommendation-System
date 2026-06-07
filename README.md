@@ -14,7 +14,7 @@ The application is built using:
 * NumPy
 * HTML/CSS
 
----
+--_
 
 ## Features
 
